@@ -1,0 +1,26 @@
+{
+  "name": "ttadminscratch",
+  "version": "1.0.0",
+  "description": "scratch project with mockApi and basic featured admin for TTT",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "kodepareek",
+  "license": "ISC",
+  "devDependencies": {
+    "admin-on-rest": "^0.9.3",
+    "dyson": "^1.0.2",
+    "dyson-generators": "^0.1.1",
+    "json-server": "^0.9.6",
+    "react-scripts": "^0.9.5"
+  },
+  "dependencies": {
+    "admin-on-rest": "^0.9.3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
